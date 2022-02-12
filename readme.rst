@@ -2,8 +2,7 @@
 
 http://localhost/api/
 
-![Screenshot](image-1.png?raw=true "IndiaRailAPI | Practical Test")
-
+![Screenshot](/image-1.png?raw=true "Encora | Practical Test")
 
 http://localhost/api/timetable?trainNo=12007
 
